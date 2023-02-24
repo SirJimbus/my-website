@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-website/static/css/main.1f7978cf.css",
+    "main.js": "/my-website/static/js/main.99ec2235.js",
+    "static/media/Grano.png": "/my-website/static/media/Grano.b9497ec7e339e5a1dbcb.png",
+    "static/media/NYT.png": "/my-website/static/media/NYT.0a9bd25c63fddc40ef86.png",
+    "static/media/GlobalWarming.png": "/my-website/static/media/GlobalWarming.ecc66ea2dfd5b6522b62.png",
+    "static/media/HackerNews.png": "/my-website/static/media/HackerNews.3687915c371bccbbb613.png",
+    "static/media/fotoprofilo.png": "/my-website/static/media/fotoprofilo.81e3181672c258472d6f.png",
+    "static/media/curriculum.svg": "/my-website/static/media/curriculum.0d7294eb3cfa737a373c31f1bef2ce68.svg",
+    "static/media/project.svg": "/my-website/static/media/project.293c2a0e3de97ac9dc21635d9e710a33.svg",
+    "index.html": "/my-website/index.html",
+    "static/media/about.svg": "/my-website/static/media/about.27639f20302c13eed364a9fb788aeafa.svg",
+    "static/media/Federico_Bertola-Curriculum.pdf": "/my-website/static/media/Federico_Bertola-Curriculum.31d6cfe0d16ae931b73c.pdf",
+    "main.1f7978cf.css.map": "/my-website/static/css/main.1f7978cf.css.map",
+    "main.99ec2235.js.map": "/my-website/static/js/main.99ec2235.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f7978cf.css",
+    "static/js/main.99ec2235.js"
+  ]
+}
