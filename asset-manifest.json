@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/my-website/static/css/main.1f7978cf.css",
-    "main.js": "/my-website/static/js/main.fdcbbb54.js",
+    "main.css": "/my-website/static/css/main.8ff09d76.css",
+    "main.js": "/my-website/static/js/main.190f1d0e.js",
     "static/media/Grano.png": "/my-website/static/media/Grano.b9497ec7e339e5a1dbcb.png",
     "static/media/NYT.png": "/my-website/static/media/NYT.0a9bd25c63fddc40ef86.png",
     "static/media/GlobalWarming.png": "/my-website/static/media/GlobalWarming.ecc66ea2dfd5b6522b62.png",
     "static/media/HackerNews.png": "/my-website/static/media/HackerNews.3687915c371bccbbb613.png",
-    "static/media/Federico_Bertola-Curriculum.pdf": "/my-website/static/media/Federico_Bertola-Curriculum.9d9c9fe85ff3bebdbf51.pdf",
+    "static/media/Federico_Bertola-Curriculum.pdf": "/my-website/static/media/Federico_Bertola-Curriculum.3c9ada0c4d849ab88196.pdf",
     "static/media/fotoprofilo.png": "/my-website/static/media/fotoprofilo.81e3181672c258472d6f.png",
-    "static/media/curriculum.svg": "/my-website/static/media/curriculum.0d7294eb3cfa737a373c31f1bef2ce68.svg",
-    "static/media/project.svg": "/my-website/static/media/project.293c2a0e3de97ac9dc21635d9e710a33.svg",
+    "static/media/github.svg": "/my-website/static/media/github.b2294bccaa20da50b7d58419f07c0892.svg",
+    "static/media/linkedin.svg": "/my-website/static/media/linkedin.d670df15d9858d0b68ce9e96fd5e979f.svg",
     "index.html": "/my-website/index.html",
-    "static/media/about.svg": "/my-website/static/media/about.27639f20302c13eed364a9fb788aeafa.svg",
-    "main.1f7978cf.css.map": "/my-website/static/css/main.1f7978cf.css.map",
-    "main.fdcbbb54.js.map": "/my-website/static/js/main.fdcbbb54.js.map"
+    "main.8ff09d76.css.map": "/my-website/static/css/main.8ff09d76.css.map",
+    "main.190f1d0e.js.map": "/my-website/static/js/main.190f1d0e.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f7978cf.css",
-    "static/js/main.fdcbbb54.js"
+    "static/css/main.8ff09d76.css",
+    "static/js/main.190f1d0e.js"
   ]
 }
