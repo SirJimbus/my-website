@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-website/static/css/main.1f7978cf.css",
-    "main.js": "/my-website/static/js/main.99ec2235.js",
+    "main.js": "/my-website/static/js/main.d9bafe90.js",
     "static/media/Grano.png": "/my-website/static/media/Grano.b9497ec7e339e5a1dbcb.png",
     "static/media/NYT.png": "/my-website/static/media/NYT.0a9bd25c63fddc40ef86.png",
     "static/media/GlobalWarming.png": "/my-website/static/media/GlobalWarming.ecc66ea2dfd5b6522b62.png",
@@ -13,10 +13,10 @@
     "static/media/about.svg": "/my-website/static/media/about.27639f20302c13eed364a9fb788aeafa.svg",
     "static/media/Federico_Bertola-Curriculum.pdf": "/my-website/static/media/Federico_Bertola-Curriculum.31d6cfe0d16ae931b73c.pdf",
     "main.1f7978cf.css.map": "/my-website/static/css/main.1f7978cf.css.map",
-    "main.99ec2235.js.map": "/my-website/static/js/main.99ec2235.js.map"
+    "main.d9bafe90.js.map": "/my-website/static/js/main.d9bafe90.js.map"
   },
   "entrypoints": [
     "static/css/main.1f7978cf.css",
-    "static/js/main.99ec2235.js"
+    "static/js/main.d9bafe90.js"
   ]
 }
