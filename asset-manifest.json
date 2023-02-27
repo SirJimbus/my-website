@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-website/static/css/main.4a4a7799.css",
-    "main.js": "/my-website/static/js/main.05b4c751.js",
+    "main.css": "/my-website/static/css/main.08161107.css",
+    "main.js": "/my-website/static/js/main.58e84a05.js",
     "static/media/Grano.png": "/my-website/static/media/Grano.b9497ec7e339e5a1dbcb.png",
     "static/media/NYT.png": "/my-website/static/media/NYT.0a9bd25c63fddc40ef86.png",
     "static/media/GlobalWarming.png": "/my-website/static/media/GlobalWarming.ecc66ea2dfd5b6522b62.png",
@@ -14,11 +14,11 @@
     "static/media/home.svg": "/my-website/static/media/home.96147ec5541fc1305bd316f0a17a223f.svg",
     "static/media/linkedin.svg": "/my-website/static/media/linkedin.d670df15d9858d0b68ce9e96fd5e979f.svg",
     "index.html": "/my-website/index.html",
-    "main.4a4a7799.css.map": "/my-website/static/css/main.4a4a7799.css.map",
-    "main.05b4c751.js.map": "/my-website/static/js/main.05b4c751.js.map"
+    "main.08161107.css.map": "/my-website/static/css/main.08161107.css.map",
+    "main.58e84a05.js.map": "/my-website/static/js/main.58e84a05.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a4a7799.css",
-    "static/js/main.05b4c751.js"
+    "static/css/main.08161107.css",
+    "static/js/main.58e84a05.js"
   ]
 }
