@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/my-website/static/css/main.5f6451ac.css",
-    "main.js": "/my-website/static/js/main.31f3d713.js",
+    "main.js": "/my-website/static/js/main.83828c3b.js",
     "static/media/Grano.png": "/my-website/static/media/Grano.b9497ec7e339e5a1dbcb.png",
     "static/media/NYT.png": "/my-website/static/media/NYT.0a9bd25c63fddc40ef86.png",
     "static/media/GlobalWarming.png": "/my-website/static/media/GlobalWarming.ecc66ea2dfd5b6522b62.png",
     "static/media/HackerNews.png": "/my-website/static/media/HackerNews.3687915c371bccbbb613.png",
     "static/media/Federico_Bertola-Curriculum.pdf": "/my-website/static/media/Federico_Bertola-Curriculum.3c9ada0c4d849ab88196.pdf",
-    "static/media/Federico_Bertola-ENG.pdf": "/my-website/static/media/Federico_Bertola-ENG.319fbaea709b3ce9660a.pdf",
+    "static/media/Federico_Bertola-Eng.pdf": "/my-website/static/media/Federico_Bertola-Eng.834a25d02815b64588ce.pdf",
     "static/media/project.svg": "/my-website/static/media/project.f87588fafde36cb7629a87bc5f562924.svg",
     "static/media/fotoprofilo.png": "/my-website/static/media/fotoprofilo.ccda7a3fb7d179d291e8.png",
     "static/media/code.svg": "/my-website/static/media/code.b94b8b3f42d6dc28974754264be8f277.svg",
@@ -18,10 +18,10 @@
     "index.html": "/my-website/index.html",
     "static/media/italy.svg": "/my-website/static/media/italy.e357b1f2542f61c2b38b72dbe843d8f4.svg",
     "main.5f6451ac.css.map": "/my-website/static/css/main.5f6451ac.css.map",
-    "main.31f3d713.js.map": "/my-website/static/js/main.31f3d713.js.map"
+    "main.83828c3b.js.map": "/my-website/static/js/main.83828c3b.js.map"
   },
   "entrypoints": [
     "static/css/main.5f6451ac.css",
-    "static/js/main.31f3d713.js"
+    "static/js/main.83828c3b.js"
   ]
 }
