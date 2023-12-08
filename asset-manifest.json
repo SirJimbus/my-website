@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/my-website/static/css/main.47cf18df.css",
-    "main.js": "/my-website/static/js/main.81ae6fe2.js",
+    "main.js": "/my-website/static/js/main.090cbbd6.js",
     "static/media/Grano.png": "/my-website/static/media/Grano.b9497ec7e339e5a1dbcb.png",
+    "static/media/mrmarcorussothumb.png": "/my-website/static/media/mrmarcorussothumb.980f16ceb3b6ecdd244a.png",
     "static/media/NYT.png": "/my-website/static/media/NYT.0a9bd25c63fddc40ef86.png",
     "static/media/GlobalWarming.png": "/my-website/static/media/GlobalWarming.ecc66ea2dfd5b6522b62.png",
     "static/media/HackerNews.png": "/my-website/static/media/HackerNews.3687915c371bccbbb613.png",
@@ -18,10 +19,10 @@
     "index.html": "/my-website/index.html",
     "static/media/italy.svg": "/my-website/static/media/italy.e357b1f2542f61c2b38b72dbe843d8f4.svg",
     "main.47cf18df.css.map": "/my-website/static/css/main.47cf18df.css.map",
-    "main.81ae6fe2.js.map": "/my-website/static/js/main.81ae6fe2.js.map"
+    "main.090cbbd6.js.map": "/my-website/static/js/main.090cbbd6.js.map"
   },
   "entrypoints": [
     "static/css/main.47cf18df.css",
-    "static/js/main.81ae6fe2.js"
+    "static/js/main.090cbbd6.js"
   ]
 }
